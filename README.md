@@ -8,7 +8,7 @@
     <a href="mailto:Miftahh.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-Miftahh.dev%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=red&color=1a1a1a&labelColor=101010"/>
     </a>
-    <a href="https://linkedin.com/Miftah-Ebrahim">
+    <a href="https://www.linkedin.com/in/miftah-ebrahim">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=101010"/>
     </a>
     <a href="https://github.com/Miftah-Ebrahim">
