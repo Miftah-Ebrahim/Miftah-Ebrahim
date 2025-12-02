@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=MIFTAH%20EBRAHIM&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20AI%20Agent%20Engineer%20%7C%20Agentic%20Systems%20Architect&descSize=16&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Miftah%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full Stack%20AI%20Agent%20Engineer%20%7C%20Agentic%20Systems%20Developer&descSize=16&descAlignY=55"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+FastAPI+%7C+n8n+%7C+PostgreSQL;Sentiment+Analysis+%7C+NLP+%7C+Data+Engineering;Architecting+Intelligence%2C+One+Agent+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 
 <br/>
 
-## 🎯 Mission Statement
+## My Mission
 
 > **"Transforming data into decisions, code into intelligence, and ideas into autonomous systems."**
 
