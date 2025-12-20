@@ -1,25 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Architect%20%26%20Backend%20Engineer&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Builder.%20Data%20Nerd.%20Future%20AI%20Engineer.&descAlignY=60&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Mission:+Automating+Complex+Business+Operations;Architecting+Autonomous+Agentic+Workflows;Transitioning+from+Data+Analysis+to+Intelligent+Action;Stack:+Python+%7C+FastAPI+%7C+LangChain+%7C+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi,+I'm+Miftah.;I+turn+messy+data+into+working+software.;Currently+learning+to+build+Autonomous+AI+Agents.;Data+Science+%3E+Backend+%3E+Full+Stack+Automation." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
   <a href="mailto:Miftahh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Business_Inquiries-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&color=0D1117&borderColor=39FF14"/>
+    <img src="https://img.shields.io/badge/Email-Say_Hi-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&color=0D1117&borderColor=39FF14"/>
   </a>
   <a href="https://www.linkedin.com/in/miftah-ebrahim">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0D1117&borderColor=00FFFF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0D1117&borderColor=00FFFF"/>
   </a>
   <a href="https://github.com/Miftah-Ebrahim">
-    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&borderColor=39FF14"/>
-  </a>
-  <a href="https://t.me/Miftah_dev">
-    <img src="https://img.shields.io/badge/Telegram-Direct_Chat-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=0D1117&borderColor=00FFFF"/>
+    <img src="https://img.shields.io/badge/GitHub-Check_My_Code-000000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&borderColor=39FF14"/>
   </a>
 </p>
 
@@ -29,52 +26,50 @@
 
 <br/>
 
-## 🧬 ENGINEERING PHILOSOPHY
+## 👋 WHO AM I?
 
-> **"Data without action is just statistics. True value comes from intelligent automation."**
+> **"I started with Data Science because I liked patterns. I'm moving to Engineering because I like building things that *do* something."**
 
-I am a **Junior Full-Stack AI & Backend Developer** on a journey to become a **Problem Solver for Business Operations**.
+Hi, I'm **Miftah**.
 
-My background is rooted in **Financial Machine Learning** and **Data Science**, where I learned to analyze the past. Now, I am actively expanding my capabilities to control the future. I am transitioning from building static models to architecting **Agentic Workflows**—systems that don't just predict outcomes but actively execute tasks, manage processes, and drive efficiency for businesses.
+I spent a lot of time learning **Financial Machine Learning** and **Data Science**. I got pretty good at analyzing the past—predicting credit risks, stock moves, and reading customer sentiment.
+
+But I realized that a model sitting in a notebook doesn't help anyone. I want to build the **whole system**.
+
+Right now, I am on a mission to become a **Full-Stack AI Engineer**. I'm teaching myself how to build backends, manage databases, and create **AI Agents** that can actually do work for businesses. I'm not an expert yet, but I show up every day, I code every day, and I'm getting faster every week.
 
 <br/>
 
 <div align="center">
 
-## 🔄 THE EVOLUTION: CURRENT TRAJECTORY
+## 🚀 WHAT I'M UP TO (MY ROADMAP)
 
-I am currently in the **Build & Scale** phase, moving from Data Analysis to Full-Stack Engineering.
+I'm following a strict 6-month plan to level up my skills. Here is exactly where I am right now.
 
 <table width="100%">
   <tr>
-    <th width="33%" align="center">PASSED (THE FOUNDATION)</th>
-    <th width="33%" align="center">CURRENT (THE BUILD)</th>
-    <th width="34%" align="center">FUTURE (THE GOAL)</th>
+    <th width="33%" align="center">PAST (DATA)</th>
+    <th width="33%" align="center">PRESENT (BUILDING)</th>
+    <th width="34%" align="center">FUTURE (AGENTS)</th>
   </tr>
   <tr>
     <td align="center" valign="top">
       <br>
-      <img src="https://img.shields.io/badge/Data_Science-MASTERED-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Data_Science-DONE-blue?style=flat-square"/>
       <br><br>
-      <em>"Analyzing what happened."</em>
-      <br><br>
-      Focus on <strong>Pandas, Scikit-Learn, and Statistical Modeling</strong>. Built robust pipelines for Credit Risk and Market Sentiment.
+      I know how to clean data, train models, and find insights using Python, Pandas, and Scikit-Learn.
     </td>
     <td align="center" valign="top">
       <br>
-      <img src="https://img.shields.io/badge/Backend_%26_Agents-ACTIVE_🟢-39FF14?style=flat-square&color=003300&textColor=39FF14"/>
+      <img src="https://img.shields.io/badge/Backend_Dev-HAPPENING_NOW_🟢-39FF14?style=flat-square&color=003300&textColor=39FF14"/>
       <br><br>
-      <em>"Automating what happens next."</em>
-      <br><br>
-      Mastering <strong>FastAPI, Async Python, and Vector Databases</strong>. Building reliable APIs that serve as the "Hands" and "Ears" for AI models.
+      <strong>Week 4 Focus:</strong> I'm deep into <strong>FastAPI</strong> and <strong>Async Python</strong>. I'm learning how to connect my data models to the web so people can actually use them.
     </td>
     <td align="center" valign="top">
       <br>
-      <img src="https://img.shields.io/badge/Autonomous_Ops-LOADING...-303030?style=flat-square&textColor=808080"/>
+      <img src="https://img.shields.io/badge/AI_Automation-SOON...-303030?style=flat-square&textColor=808080"/>
       <br><br>
-      <em>"Systems that run themselves."</em>
-      <br><br>
-      Orchestrating multi-agent systems using <strong>LangGraph</strong> to solve end-to-end business operation problems without human intervention.
+      Next up: Vector Databases and Multi-Agent workflows. I want to build software that runs itself.
     </td>
   </tr>
 </table>
@@ -83,28 +78,25 @@ I am currently in the **Build & Scale** phase, moving from Data Analysis to Full
 
 <br/>
 
-## 🛠️ THE COMMAND CENTER (TECH STACK)
+## 🧰 MY TOOLBOX
 
-My toolkit is selected for **reliability, speed, and scalability**. I focus on tools that solve business problems, not just trendy frameworks.
+I don't care about hype. I care about tools that get the job done.
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%">
-      <strong>AGENTIC AI<br>& LOGIC</strong>
+      <strong>THE BRAINS<br>(AI & DATA)</strong>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,anaconda&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,anaconda&theme=dark" />
       </a>
-      <br/>
-      <img src="https://img.shields.io/badge/LangChain-Orchestration-000000?style=flat-square&color=1C2C33&textColor=39FF14"/>
-      <img src="https://img.shields.io/badge/RAG-Vector_Search-000000?style=flat-square&color=1C2C33&textColor=00FFFF"/>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="20%">
-      <strong>BACKEND<br>& APIs</strong>
+      <strong>THE MUSCLE<br>(BACKEND)</strong>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
@@ -115,7 +107,7 @@ My toolkit is selected for **reliability, speed, and scalability**. I focus on t
 
   <tr>
     <td align="center" width="20%">
-      <strong>DEVOPS<br>& DEPLOY</strong>
+      <strong>THE TOOLS<br>(DEVOPS)</strong>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
@@ -127,87 +119,75 @@ My toolkit is selected for **reliability, speed, and scalability**. I focus on t
 
 <br/>
 
-## 📂 OPERATIONAL PORTFOLIO (DEPLOYED SYSTEMS)
+## 🏗️ STUFF I'VE BUILT
 
-These are complex systems I have architected to translate data into business decisions.
+I learn by doing. Here are some real projects I built to solve actual problems.
 
 <table width="100%">
   <thead align="left">
     <tr>
-      <th width="40%">SYSTEM ARCHITECTURE</th>
-      <th width="15%">SECTOR</th>
-      <th width="45%">BUSINESS IMPACT & TECH</th>
+      <th width="40%">PROJECT</th>
+      <th width="15%">TOPIC</th>
+      <th width="45%">WHAT IT DOES & TECH USED</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <a href="https://github.com/Miftah-Ebrahim/credit-risk-scoring-ml-pipeline">
-          <h3 align="left">💳 Credit Risk Scoring Engine</h3>
+          <h3 align="left">💳 Credit Risk Predictor</h3>
         </a>
-        <p>A full-cycle machine learning pipeline designed to assess borrower reliability.</p>
       </td>
       <td><code>Fintech</code></td>
       <td>
-        <ul>
-          <li><strong>Problem:</strong> Identifying high-risk users in Buy-Now-Pay-Later systems.</li>
-          <li><strong>Solution:</strong> RFM Analysis + Classification Models.</li>
-        </ul>
+        I built a system to help banks decide who to lend money to. It uses <strong>RFM Analysis</strong> to spot risky borrowers so banks don't lose money.
+        <br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit_Learn-Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </td>
     </tr>
 
     <tr>
       <td>
         <a href="https://github.com/Miftah-Ebrahim/Insurance-claims-Intelligence">
-          <h3 align="left">🛡️ Insurance Risk Intelligence</h3>
+          <h3 align="left">🛡️ Insurance Pricing AI</h3>
         </a>
-        <p>Strategic risk pricing model focused on interpretability and fairness.</p>
       </td>
-      <td><code>InsurTech</code></td>
+      <td><code>Insurance</code></td>
       <td>
-        <ul>
-          <li><strong>Problem:</strong> Opaque pricing strategies leading to customer churn.</li>
-          <li><strong>Solution:</strong> A/B Testing & SHAP/LIME for Explainable AI (XAI).</li>
-        </ul>
+        Insurance pricing is usually a mess. I used AI to categorize risks and calculate fair prices. I also used tools like <strong>SHAP</strong> to explain <em>why</em> the model made a decision.
+        <br><br>
         <img src="https://img.shields.io/badge/MLOps-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Data_Versioning-DVC-purple?style=flat-square"/>
+        <img src="https://img.shields.io/badge/A%2FB_Testing-Analytics-purple?style=flat-square"/>
       </td>
     </tr>
 
     <tr>
       <td>
         <a href="https://github.com/Miftah-Ebrahim/Fintech-Mobile-CX-Analytics">
-          <h3 align="left">📱 Customer Experience Analytics</h3>
+          <h3 align="left">📱 Banking App Analyzer</h3>
         </a>
-        <p>NLP Pipeline extracting actionable insights from banking app reviews.</p>
       </td>
       <td><code>Analytics</code></td>
       <td>
-         <ul>
-          <li><strong>Problem:</strong> Unstructured feedback data was being ignored.</li>
-          <li><strong>Solution:</strong> Sentiment Analysis pipeline for Ethiopian Banks.</li>
-        </ul>
-        <img src="https://img.shields.io/badge/NLP-Natural_Language-FFD43B?style=flat-square&color=000"/>
+         I scraped thousands of reviews for Ethiopian Banking Apps (CBE, BOA) and used NLP to figure out what customers actually hate (and love) about the apps.
+        <br><br>
+        <img src="https://img.shields.io/badge/NLP-Text_Analysis-FFD43B?style=flat-square&color=000"/>
         <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       </td>
     </tr>
      <tr>
       <td>
         <a href="https://github.com/Miftah-Ebrahim/StockSentimentAnalysis">
-          <h3 align="left">📈 Financial Market Sentinel</h3>
+          <h3 align="left">📈 Stock News Reader</h3>
         </a>
-        <p>Correlating news sentiment with stock volatility.</p>
       </td>
       <td><code>Finance</code></td>
       <td>
-        <ul>
-          <li><strong>Problem:</strong> Lagging indicators fail to capture market mood.</li>
-          <li><strong>Solution:</strong> Real-time NLP processing of financial news feeds.</li>
-        </ul>
+        Can the news predict the stock market? I built a tool that reads financial headlines and compares them to stock price changes to find patterns.
+        <br><br>
          <img src="https://img.shields.io/badge/Time_Series-Forecasting-red?style=flat-square"/>
-         <img src="https://img.shields.io/badge/TA_Lib-Technical_Analysis-green?style=flat-square"/>
+         <img src="https://img.shields.io/badge/Technical_Analysis-Stocks-green?style=flat-square"/>
       </td>
     </tr>
   </tbody>
@@ -217,7 +197,7 @@ These are complex systems I have architected to translate data into business dec
 
 <div align="center">
 
-## 📊 CONTINUOUS INTEGRATION (STATS)
+## 📊 THE NUMBERS
 
 <table width="100%">
   <tr>
@@ -230,9 +210,7 @@ These are complex systems I have architected to translate data into business dec
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Miftah-Ebrahim&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=00FFFF&point=39FF14" alt="Activity Graph" width="100%"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=100&section=footer"/>
 
