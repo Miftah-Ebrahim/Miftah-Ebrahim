@@ -31,7 +31,7 @@
 
 ## 👋 WHO AM I?
 
-> **"I started with Data Science because I liked patterns. I'm moving to Engineering because I like building things that *do* something."**
+> **"I started with Data Analytics because I liked patterns. I'm moving to Engineering because I like building things that *do* something."**
 
 Hi, I'm **Miftah**.
 
@@ -45,7 +45,7 @@ Right now, I am on a mission to become a **Full-Stack AI Engineer**. I'm teachin
 
 <div align="center">
 
-## 🚀 WHAT I'M UP TO (MY ROADMAP)
+## WHAT I'M UP TO (MY ROADMAP)
 
 I'm following a strict 6-month plan to level up my skills. Here is exactly where I am right now.
 
