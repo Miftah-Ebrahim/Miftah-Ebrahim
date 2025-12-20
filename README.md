@@ -18,6 +18,9 @@
   <a href="https://github.com/Miftah-Ebrahim">
     <img src="https://img.shields.io/badge/GitHub-Check_My_Code-000000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&borderColor=39FF14"/>
   </a>
+  <a href="https://t.me/Miftah_dev">
+    <img src="https://img.shields.io/badge/Telegram-Chat-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=0D1117&borderColor=00FFFF"/>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
@@ -28,7 +31,7 @@
 
 ## 👋 WHO AM I?
 
-> **"I started with Data Science because I liked patterns. I'm moving to Engineering because I like building things that *do* something."**
+> **"I started with Data analaytics because I liked patterns. I'm moving to Engineering because I like building things that *do* something."**
 
 Hi, I'm **Miftah**.
 
@@ -42,15 +45,15 @@ Right now, I am on a mission to become a **Full-Stack AI Engineer**. I'm teachin
 
 <div align="center">
 
-## 🚀 WHAT I'M UP TO (MY ROADMAP)
+##  WHAT I'M UP TO 
 
-I'm following a strict 6-month plan to level up my skills. Here is exactly where I am right now.
+I'm following a Roadmap to level up my skills. Here is exactly where I am right now.
 
 <table width="100%">
   <tr>
     <th width="33%" align="center">PAST (DATA)</th>
-    <th width="33%" align="center">PRESENT (BUILDING)</th>
-    <th width="34%" align="center">FUTURE (AGENTS)</th>
+    <th width="33%" align="center">currently learning </th>
+    <th width="34%" align="center">Upcoming..(AGENTS)</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -124,7 +127,7 @@ I don't care about hype. I care about tools that get the job done.
 I learn by doing. Here are some real projects I built to solve actual problems.
 
 <table width="100%">
-  <thead align="left">
+  <thead>
     <tr>
       <th width="40%">PROJECT</th>
       <th width="15%">TOPIC</th>
@@ -150,7 +153,7 @@ I learn by doing. Here are some real projects I built to solve actual problems.
     <tr>
       <td>
         <a href="https://github.com/Miftah-Ebrahim/Insurance-claims-Intelligence">
-          <h3 align="left">🛡️ Insurance Pricing AI</h3>
+          <h3 align="left">💎 Insurance Pricing AI</h3>
         </a>
       </td>
       <td><code>Insurance</code></td>
@@ -176,6 +179,7 @@ I learn by doing. Here are some real projects I built to solve actual problems.
         <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       </td>
     </tr>
+    
      <tr>
       <td>
         <a href="https://github.com/Miftah-Ebrahim/StockSentimentAnalysis">
