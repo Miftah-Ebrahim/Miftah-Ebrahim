@@ -29,23 +29,21 @@
 
 <br/>
 
-## 🧬 MY ENGINEERING PHILOSOPHY
+## 🧬 ENGINEERING PHILOSOPHY
 
 > **"Data without action is just statistics. True value comes from intelligent automation."**
 
-I am a **Junior Full-Stack AI & Backend Developer** on a dedicated journey to become a **Problem Solver for Business Operations**.
+I am a **Junior Full-Stack AI & Backend Developer** on a journey to become a **Problem Solver for Business Operations**.
 
 My background is rooted in **Financial Machine Learning** and **Data Science**, where I learned to analyze the past. Now, I am actively expanding my capabilities to control the future. I am transitioning from building static models to architecting **Agentic Workflows**—systems that don't just predict outcomes but actively execute tasks, manage processes, and drive efficiency for businesses.
-
-I believe that the future of software lies in **Autonomous Agents** that can handle complex logic with reliability. I am currently building the infrastructure to make that happen, one commit at a time.
 
 <br/>
 
 <div align="center">
 
-## 🔄 THE EVOLUTION: CURRENT FOCUS
+## 🔄 THE EVOLUTION: CURRENT TRAJECTORY
 
-I am currently in the **Build & Scale** phase of my career, moving from Data Analysis to Full-Stack Engineering.
+I am currently in the **Build & Scale** phase, moving from Data Analysis to Full-Stack Engineering.
 
 <table width="100%">
   <tr>
@@ -125,24 +123,13 @@ My toolkit is selected for **reliability, speed, and scalability**. I focus on t
       </a>
     </td>
   </tr>
-
-  <tr>
-    <td align="center" width="20%">
-      <strong>VISUAL<br>INTERFACE</strong>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&theme=dark" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <br/>
 
-## 📂 PROBLEM-SOLVING ARCHIVE (PROJECTS)
+## 📂 OPERATIONAL PORTFOLIO (DEPLOYED SYSTEMS)
 
-These repositories represent my ability to translate complex data requirements into functional software solutions.
+These are complex systems I have architected to translate data into business decisions.
 
 <table width="100%">
   <thead align="left">
