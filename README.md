@@ -135,88 +135,100 @@ I don't care about hype. I care about tools that get the job done.
 </table>
 </div>
 
+<br/>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          📂 PRODUCTION SYSTEMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 <br/>
-
-## 📂 PRODUCTION SYSTEMS
-
-I learn by doing. Here are the real projects I've built to solve actual problems.
-
-<table width="100%">
+<table width="100%" style="border-collapse: separate; border-spacing: 0 15px;">
   <thead>
-    <tr>
-      <th width="40%">PROJECT</th>
-      <th width="15%">TOPIC</th>
-      <th width="45%">WHAT IT DOES & TECH USED</th>
+    <tr style="background: linear-gradient(90deg, #0a0a0a 0%, #1a1a1a 100%);">
+      <th width="40%" style="padding: 15px; border-bottom: 2px solid #39FF14;">
+        <img src="https://img.shields.io/badge/PROJECT-39FF14?style=flat-square&labelColor=000000&color=000000"/> 
+      </th>
+      <th width="15%" style="padding: 15px; border-bottom: 2px solid #00FFFF;">
+        <img src="https://img.shields.io/badge/TOPIC-00FFFF?style=flat-square&labelColor=000000&color=000000"/>
+      </th>
+      <th width="45%" style="padding: 15px; border-bottom: 2px solid #FFD700;">
+        <img src="https://img.shields.io/badge/DETAILS-FFD700?style=flat-square&labelColor=000000&color=000000"/>
+      </th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>
+    <tr style="background-color: #0a0a0a;">
+      <td style="padding: 20px; border-left: 4px solid #39FF14;">
         <a href="https://github.com/Miftah-Ebrahim/credit-risk-scoring-ml-pipeline">
-          <h3 align="left">💳 Credit Risk Predictor</h3>
+          <h3 style="margin: 0; color: #39FF14;">💳 Credit Risk Predictor</h3>
         </a>
+        <br/>
+        <img src="https://img.shields.io/github/stars/Miftah-Ebrahim/credit-risk-scoring-ml-pipeline?style=social" alt="stars"/>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 20px;">
         <img src="https://img.shields.io/badge/Fintech-39FF14?style=for-the-badge&labelColor=000000&color=003300"/>
       </td>
-      <td>
+      <td style="padding: 20px; border-right: 4px solid #39FF14;">
         I built a system to help banks decide who to lend money to. It uses <strong>RFM Analysis</strong> to spot risky borrowers so banks don't lose money.
-        <br><br>
+        <br/><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </td>
-    </tr>
+    </tr><tr style="background-color: #0d0d0d;">
+  <td style="padding: 20px; border-left: 4px solid #00FFFF;">
+    <a href="https://github.com/Miftah-Ebrahim/Insurance-claims-Intelligence">
+      <h3 style="margin: 0; color: #00FFFF;">💎 Insurance Pricing AI</h3>
+    </a>
+    <br/>
+    <img src="https://img.shields.io/github/stars/Miftah-Ebrahim/Insurance-claims-Intelligence?style=social" alt="stars"/>
+  </td>
+  <td align="center" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/Insurance-00FFFF?style=for-the-badge&labelColor=000000&color=003333"/>
+  </td>
+  <td style="padding: 20px; border-right: 4px solid #00FFFF;">
+    Insurance pricing is usually a mess. I used AI to categorize risks and calculate fair prices. I also used tools like <strong>SHAP</strong> to explain <em>why</em> the model made a decision.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/MLOps-000000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/A%2FB_Testing-Analytics-purple?style=flat-square"/>
+  </td>
+</tr>
 
-    <tr>
-      <td>
-        <a href="https://github.com/Miftah-Ebrahim/Insurance-claims-Intelligence">
-          <h3 align="left">💎 Insurance Pricing AI</h3>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Insurance-00FFFF?style=for-the-badge&labelColor=000000&color=003333"/>
-      </td>
-      <td>
-        Insurance pricing is usually a mess. I used AI to categorize risks and calculate fair prices. I also used tools like <strong>SHAP</strong> to explain <em>why</em> the model made a decision.
-        <br><br>
-        <img src="https://img.shields.io/badge/MLOps-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/A%2FB_Testing-Analytics-purple?style=flat-square"/>
-      </td>
-    </tr>
+<tr style="background-color: #0a0a0a;">
+  <td style="padding: 20px; border-left: 4px solid #FFD700;">
+    <a href="https://github.com/Miftah-Ebrahim/Fintech-Mobile-CX-Analytics">
+      <h3 style="margin: 0; color: #FFD700;">📱 Banking App Analyzer</h3>
+    </a>
+    <br/>
+    <img src="https://img.shields.io/github/stars/Miftah-Ebrahim/Fintech-Mobile-CX-Analytics?style=social" alt="stars"/>
+  </td>
+  <td align="center" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/Analytics-FFD700?style=for-the-badge&labelColor=000000&color=333300"/>
+  </td>
+  <td style="padding: 20px; border-right: 4px solid #FFD700;">
+    I scraped thousands of reviews for Ethiopian Banking Apps (CBE, BOA) and used NLP to figure out what customers actually hate (and love) about the apps.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/NLP-FFD43B?style=flat-square&color=000"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  </td>
+</tr>
 
-    <tr>
-      <td>
-        <a href="https://github.com/Miftah-Ebrahim/Fintech-Mobile-CX-Analytics">
-          <h3 align="left">📱 Banking App Analyzer</h3>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Analytics-FFD700?style=for-the-badge&labelColor=000000&color=333300"/>
-      </td>
-      <td>
-         I scraped thousands of reviews for Ethiopian Banking Apps (CBE, BOA) and used NLP to figure out what customers actually hate (and love) about the apps.
-        <br><br>
-        <img src="https://img.shields.io/badge/NLP-FFD43B?style=flat-square&color=000"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-      </td>
-    </tr>
-    
-     <tr>
-      <td>
-        <a href="https://github.com/Miftah-Ebrahim/StockSentimentAnalysis">
-          <h3 align="left">📈 Stock News Reader</h3>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Finance-FF6B6B?style=for-the-badge&labelColor=000000&color=330000"/>
-      </td>
-      <td>
-        Can the news predict the stock market? I built a tool that reads financial headlines and compares them to stock price changes to find patterns.
-        <br><br>
-         <img src="https://img.shields.io/badge/Time_Series-red?style=flat-square"/>
-         <img src="https://img.shields.io/badge/Technical_Analysis-green?style=flat-square"/>
-      </td>
-    </tr>
+<tr style="background-color: #0d0d0d;">
+  <td style="padding: 20px; border-left: 4px solid #FF6B6B;">
+    <a href="https://github.com/Miftah-Ebrahim/StockSentimentAnalysis">
+      <h3 style="margin: 0; color: #FF6B6B;">📈 Stock News Reader</h3>
+    </a>
+    <br/>
+    <img src="https://img.shields.io/github/stars/Miftah-Ebrahim/StockSentimentAnalysis?style=social" alt="stars"/>
+  </td>
+  <td align="center" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/Finance-FF6B6B?style=for-the-badge&labelColor=000000&color=330000"/>
+  </td>
+  <td style="padding: 20px; border-right: 4px solid #FF6B6B;">
+    Can the news predict the stock market? I built a tool that reads financial headlines and compares them to stock price changes to find patterns.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Time_Series-red?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Technical_Analysis-green?style=flat-square"/>
+  </td>
+</tr>
+
   </tbody>
 </table>
 
