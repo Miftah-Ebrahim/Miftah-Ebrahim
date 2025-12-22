@@ -45,9 +45,9 @@ Right now, I am on a mission to become a **Full-Stack AI Engineer**. I'm teachin
 
 <div align="center">
 
-## WHAT I'M UP TO (MY ROADMAP)
+## WHAT I'M UP TO
 
-I'm following a strict 6-month plan to level up my skills. Here is exactly where I am right now.
+I'm following intensive bootcamps to level up my skills. Here is exactly where I am right now.
 
 <table width="100%">
   <tr>
@@ -61,7 +61,7 @@ I'm following a strict 6-month plan to level up my skills. Here is exactly where
     </th>
     <th width="34%" align="center">
       <img src="https://img.shields.io/badge/FUTURE-1a1a1a?style=for-the-badge"/>
-      <br>AGENTS
+      <br>- AI AGENTS
     </th>
   </tr>
   <tr>
