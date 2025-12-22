@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Builder.%20Data%20Nerd.%20Future%20AI%20Engineer.&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Builder.%20Data%20Nerd.%20Future%20Systems %20Architect.&descAlignY=60&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi,+I'm+Miftah.;I+turn+messy+data+into+working+software.;Currently+learning+to+build+Autonomous+AI+Agents.;Data+Science+%3E+Backend+%3E+Full+Stack+Automation." alt="Typing SVG" />
