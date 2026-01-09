@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=Miftah%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Developer%20•%20Learning%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Developer%20•%20Learning%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=System.init(Learning_Mode)%3B;Executing...+%22Build_Real_Systems%22;From+Data+Science+to+Backend+Architecture.;Commit.+Push.+Repeat."/>
@@ -161,46 +161,32 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/L0qTl8qbP2Frq/giphy.gif" width="35" height="35" style="vertical-align:middle"/>
-  CONTRIBUTION MATRIX
+  VISUAL ACTIVITY
 </h2>
 
 <div align="center">
-
-<img src="https://github.com/Miftah-Ebrahim/Miftah-Ebrahim/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=000000&sideNums=39FF14&dates=ffffff" width="80%"/>
-
+  <img src="https://github.com/Miftah-Ebrahim/Miftah-Ebrahim/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="100%"/>
 </div>
 
 <br/>
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/L0qTl8qbP2Frq/giphy.gif" width="35" height="35" style="vertical-align:middle"/>
-  CONTRIBUTION MATRIX
+  DATA ANALYTICS
 </h2>
 
 <div align="center">
 
-<img src="https://github.com/Miftah-Ebrahim/Miftah-Ebrahim/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="100%"/>
-
-<br/>
-
-<a href="https://github.com/Miftah-Ebrahim?tab=overview&from=2026-01-01&to=2026-12-31">
-  <img src="https://img.shields.io/badge/2026-In_Progress-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/Miftah-Ebrahim?tab=overview&from=2025-12-01&to=2025-12-31">
-  <img src="https://img.shields.io/badge/2025-History-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/Miftah-Ebrahim?tab=overview&from=2024-12-01&to=2024-12-31">
-  <img src="https://img.shields.io/badge/2024-History-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Miftah-Ebrahim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FFFF&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=000000&sideNums=39FF14&dates=ffffff" width="80%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Miftah-Ebrahim&bg_color=0D1117&color=39FF14&line=00FFFF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
+
+<br/>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Level-Junior-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mindset-Building-green?style=for-the-badge&logo=github&logoColor=white"/>
