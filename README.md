@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Developer%20•%20Learning%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=Miftah%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Developer%20•%20Learning%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=System.init(Learning_Mode)%3B;Executing...+%22Build_Real_Systems%22;From+Data+Science+to+Backend+Architecture.;Commit.+Push.+Repeat."/>
