@@ -1,166 +1,187 @@
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,6,12,20&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Developer%20•%20Learning%20in%20Public&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Developer%20•%20Learning%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=I+learn+by+building.;Still+junior.+Still+shipping.;From+Data+Science+to+Real+Systems.;Every+week+better+than+last."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=System.init(Learning_Mode)%3B;Executing...+%22Build_Real_Systems%22;From+Data+Science+to+Backend+Architecture.;Commit.+Push.+Repeat."/>
 </a>
 
 <br/>
 
-<!-- QUICK LINKS -->
 <p>
-  <a href="mailto:Miftahh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://www.linkedin.com/in/miftah-ebrahim"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="https://t.me/Miftah_dev"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4"/></a>
+  <a href="mailto:Miftahh.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Miftahh.dev%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=39FF14&color=0D1117&labelColor=1F2428"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miftah-ebrahim">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=39FF14&color=0D1117&labelColor=1F2428"/>
+  </a>
+  <a href="https://t.me/Miftah_dev">
+    <img src="https://img.shields.io/badge/Telegram-Chat-black?style=for-the-badge&logo=telegram&logoColor=39FF14&color=0D1117&labelColor=1F2428"/>
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4"/>
 
 </div>
 
----
+<br/>
 
-## 🧠 CURRENT LEARNING STATE (LIVE)
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCerVq/giphy.gif" width="30" height="30" style="vertical-align:middle"/> 
+  SYSTEM STATUS
+</h2>
 
-<table align="center" width="100%">
+<div align="center">
+<table align="center" width="90%" style="border-collapse: collapse; border: none;">
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/PAST-003366?style=for-the-badge"/>
+<td align="center" width="33%" style="border: none;">
+<img src="https://img.shields.io/badge/MODULE_LOADED-PAST-003366?style=for-the-badge"/>
 <br/><br/>
-📊 Data Science  
-🤖 Machine Learning  
-📈 Financial Analytics
+<code>📊 Data Science</code><br/>
+<code>🤖 Machine Learning</code><br/>
+<code>📈 Financial Analytics</code>
 </td>
 
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/NOW-39FF14?style=for-the-badge"/>
+<td align="center" width="33%" style="border: none;">
+<img src="https://img.shields.io/badge/EXECUTING_NOW-LIVE-39FF14?style=for-the-badge&labelColor=black"/>
 <br/><br/>
-⚙️ Backend (FastAPI)  
-🗄 Databases  
-🔌 APIs
+<code>⚙️ Backend (FastAPI)</code><br/>
+<code>🗄 Databases</code><br/>
+<code>🔌 APIs</code>
 </td>
 
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/NEXT-1a1a1a?style=for-the-badge"/>
+<td align="center" width="33%" style="border: none;">
+<img src="https://img.shields.io/badge/QUEUED-NEXT-1a1a1a?style=for-the-badge"/>
 <br/><br/>
-🧠 RAG Systems  
-🤝 AI Agents  
-🔄 Automation
+<code>🧠 RAG Systems</code><br/>
+<code>🤝 AI Agents</code><br/>
+<code>🔄 Automation</code>
 </td>
 </tr>
 </table>
+</div>
 
----
+<br/>
 
-## 🛠️ TECH STACK (EVOLVING)
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30" style="vertical-align:middle"/>
+  ARSENAL
+</h2>
 
-<table width="100%">
+<div align="center">
+<table width="90%" style="border: none;">
 <tr>
-<td width="20%" align="center">
-<img src="https://img.shields.io/badge/AI%20%26%20DATA-39FF14?style=for-the-badge"/>
+<td width="20%" align="center" style="border: none;">
+<img src="https://img.shields.io/badge/INTELLIGENCE-39FF14?style=for-the-badge&logo=nVidia&logoColor=black"/>
 </td>
-<td>
+<td style="border: none;">
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas&theme=dark"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/BACKEND-00FFFF?style=for-the-badge"/>
+<td align="center" style="border: none;">
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-00FFFF?style=for-the-badge&logo=serverless&logoColor=black"/>
 </td>
-<td>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase&theme=dark"/>
+<td style="border: none;">
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,redis&theme=dark"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/TOOLS-FFD700?style=for-the-badge"/>
+<td align="center" style="border: none;">
+<img src="https://img.shields.io/badge/OPERATIONS-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
 </td>
-<td>
+<td style="border: none;">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
 </td>
 </tr>
 </table>
+</div>
 
----
+<br/>
 
-## 📂 PROJECTS BUILT WHILE LEARNING
+<h2 align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" height="30" style="vertical-align:middle"/>
+  PROJECT LOGS
+</h2>
 
-<table width="100%">
+<div align="center">
+<table width="95%">
+<thead>
+<tr style="background-color: #0D1117;">
+<th align="left">PROJECT</th>
+<th align="center">DOMAIN</th>
+<th align="left">KEY LEARNINGS (XP GAINED)</th>
+</tr>
+</thead>
+<tbody>
+
 <tr>
-<th>Project</th>
-<th>Focus</th>
-<th>What I Learned</th>
+<td><b>🧠 RAG Complaint Intel</b></td>
+<td align="center"><img src="https://img.shields.io/badge/NLP-RAG-39FF14?style=flat-square"/></td>
+<td>Vector search, document chunking, real-time querying</td>
 </tr>
 
 <tr>
-<td>🧠 RAG Complaint Intelligence</td>
-<td>NLP · RAG</td>
-<td>Vector search, document chunking, real querying</td>
+<td><b>💳 Credit Risk Pipeline</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Fintech-ML-00FFFF?style=flat-square"/></td>
+<td>Feature engineering, model eval, end-to-end flow</td>
 </tr>
 
 <tr>
-<td>💳 Credit Risk ML Pipeline</td>
-<td>Fintech · ML</td>
-<td>Feature engineering, evaluation, end-to-end flow</td>
+<td><b>💎 Insurance Intel</b></td>
+<td align="center"><img src="https://img.shields.io/badge/XAI-Risk-FF00FF?style=flat-square"/></td>
+<td>SHAP values, explainability, pricing logic</td>
 </tr>
 
 <tr>
-<td>💎 Insurance Claims Intelligence</td>
-<td>XAI · Risk</td>
-<td>SHAP, explainability, pricing logic</td>
+<td><b>📱 Fintech CX Analytics</b></td>
+<td align="center"><img src="https://img.shields.io/badge/NLP-Sentiment-orange?style=flat-square"/></td>
+<td>Web scraping, sentiment analysis, customer insights</td>
 </tr>
 
 <tr>
-<td>📱 Fintech CX Analytics</td>
-<td>NLP · Reviews</td>
-<td>Scraping, sentiment analysis, insights</td>
+<td><b>📈 Stock Sentiment</b></td>
+<td align="center"><img src="https://img.shields.io/badge/NLP-Finance-blue?style=flat-square"/></td>
+<td>Correlation limits, signal-to-noise separation</td>
 </tr>
 
 <tr>
-<td>📈 Stock Sentiment Analysis</td>
-<td>NLP · Finance</td>
-<td>Correlation limits, signal noise</td>
+<td><b>🛠 Mini Tools</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Python-Scripting-yellow?style=flat-square"/></td>
+<td>Automation, CLI interfaces, scripting discipline</td>
 </tr>
 
-<tr>
-<td>🛠 Mini Tools</td>
-<td>Python</td>
-<td>Automation, scripting discipline</td>
-</tr>
+</tbody>
 </table>
+</div>
 
----
+<br/>
 
-## 📊 YEARLY BUILDING ACTIVITY
+<h2 align="center">
+  <img src="https://media.giphy.com/media/L0qTl8qbP2Frq/giphy.gif" width="35" height="35" style="vertical-align:middle"/>
+  CONTRIBUTION MATRIX
+</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Miftah-Ebrahim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FFFF&text_color=ffffff" width="48%"/>
+<img src="https://github.com/Miftah-Ebrahim/Miftah-Ebrahim/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=000000&sideNums=39FF14&dates=ffffff" width="80%"/>
 
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Miftah-Ebrahim&bg_color=0D1117&color=39FF14&line=00FFFF&point=ffffff&area=true&hide_border=true"/>
+<div align="center">
+<img src="https://img.shields.io/badge/Level-Junior-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mindset-Building-green?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trajectory-Exponential-39FF14?style=for-the-badge&logo=spacex&logoColor=black"/>
 
----
+<br/><br/>
 
-## 🚧 STATUS
-
-<img src="https://img.shields.io/badge/Level-Junior-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mindset-Building-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Trajectory-Upwards-39FF14?style=for-the-badge"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient"/>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Miftah-Ebrahim&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=000000"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=39FF14,003300,0D1117"/>
+</div>
