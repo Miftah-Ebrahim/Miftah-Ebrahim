@@ -175,7 +175,32 @@
 </div>
 
 <br/>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/L0qTl8qbP2Frq/giphy.gif" width="35" height="35" style="vertical-align:middle"/>
+  CONTRIBUTION MATRIX
+</h2>
 
+<div align="center">
+
+<img src="https://github.com/Miftah-Ebrahim/Miftah-Ebrahim/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/Miftah-Ebrahim?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://img.shields.io/badge/2026-In_Progress-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
+</a>
+<a href="https://github.com/Miftah-Ebrahim?tab=overview&from=2025-12-01&to=2025-12-31">
+  <img src="https://img.shields.io/badge/2025-History-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="https://github.com/Miftah-Ebrahim?tab=overview&from=2024-12-01&to=2024-12-31">
+  <img src="https://img.shields.io/badge/2024-History-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=000000&sideNums=39FF14&dates=ffffff" width="80%"/>
+
+</div>
 <div align="center">
 <img src="https://img.shields.io/badge/Level-Junior-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mindset-Building-green?style=for-the-badge&logo=github&logoColor=white"/>
