@@ -170,21 +170,6 @@
 
 <br/>
 
-<h2 align="center">
-  CONTRIBUTION RECORD
-</h2>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/39FF14/Miftah-Ebrahim" alt="Miftah-Ebrahim's Github chart" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Miftah-Ebrahim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FFFF&text_color=ffffff" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://img.shields.io/badge/Level-Junior-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mindset-Building-green?style=for-the-badge&logo=github&logoColor=white"/>
