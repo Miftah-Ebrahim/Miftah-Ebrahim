@@ -161,27 +161,17 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/L0qTl8qbP2Frq/giphy.gif" width="35" height="35" style="vertical-align:middle"/>
-  VISUAL ACTIVITY
-</h2>
-
-<div align="center">
-  <img src="https://github.com/Miftah-Ebrahim/Miftah-Ebrahim/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="100%"/>
-</div>
-
-<br/>
-
-<h2 align="center">
-  DATA ANALYTICS
+  CONTRIBUTION MATRIX
 </h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Miftah-Ebrahim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FFFF&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
+<img src="https://github.com/Miftah-Ebrahim/Miftah-Ebrahim/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Miftah-Ebrahim&bg_color=0D1117&color=39FF14&line=00FFFF&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Miftah-Ebrahim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FFFF&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Ebrahim&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
 
 </div>
 
