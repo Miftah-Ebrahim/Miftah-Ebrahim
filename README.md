@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Developer%20•%20Learning%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Engineer%20•%20Building%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=System.init(Learning_Mode)%3B;Executing...+%22Build_Real_Systems%22;From+Data+Science+to+Backend+Architecture.;Commit.+Push.+Repeat."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=System.init(Learning_Mode)%3B;Loading...+%22Production_Pipelines%22;From+Notebooks+to+Deployed+APIs.;Commit.+Push.+Iterate."/>
 </a>
 
 <br/>
@@ -35,27 +35,27 @@
 <table align="center" width="90%" style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" width="33%" style="border: none;">
-<img src="https://img.shields.io/badge/MODULE_LOADED-PAST-003366?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODULE_COMPLETE-DONE-003366?style=for-the-badge"/>
 <br/><br/>
-<code>📊 Data Science</code><br/>
-<code>🤖 Machine Learning</code><br/>
-<code>📈 Financial Analytics</code>
+<code>📊 EDA & Visualization</code><br/>
+<code>📓 Jupyter Notebooks</code><br/>
+<code>🤖 Basic ML Models</code>
 </td>
 
 <td align="center" width="33%" style="border: none;">
-<img src="https://img.shields.io/badge/EXECUTING_NOW-LIVE-39FF14?style=for-the-badge&labelColor=black"/>
+<img src="https://img.shields.io/badge/CURRENT_FOCUS-ACTIVE-39FF14?style=for-the-badge&labelColor=black"/>
 <br/><br/>
 <code>⚙️ Backend (FastAPI)</code><br/>
-<code>🗄 Databases</code><br/>
-<code>🔌 APIs</code>
+<code>☁️ Deployment & Docker</code><br/>
+<code>🔄 End-to-End Pipelines</code>
 </td>
 
 <td align="center" width="33%" style="border: none;">
-<img src="https://img.shields.io/badge/QUEUED-NEXT-1a1a1a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOADING_NEXT-WAITING-1a1a1a?style=for-the-badge"/>
 <br/><br/>
-<code>🧠 RAG Systems</code><br/>
-<code>🤝 AI Agents</code><br/>
-<code>🔄 Automation</code>
+<code>🧠 Agentic Workflows</code><br/>
+<code>🛡️ System Architecture</code><br/>
+<code>⚡ High Performance APIs</code>
 </td>
 </tr>
 </table>
@@ -72,7 +72,7 @@
 <table width="90%" style="border: none;">
 <tr>
 <td width="20%" align="center" style="border: none;">
-<img src="https://img.shields.io/badge/INTELLIGENCE-39FF14?style=for-the-badge&logo=nVidia&logoColor=black"/>
+<img src="https://img.shields.io/badge/CORE-39FF14?style=for-the-badge&logo=python&logoColor=black"/>
 </td>
 <td style="border: none;">
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas&theme=dark"/>
@@ -81,7 +81,7 @@
 
 <tr>
 <td align="center" style="border: none;">
-<img src="https://img.shields.io/badge/INFRASTRUCTURE-00FFFF?style=for-the-badge&logo=serverless&logoColor=black"/>
+<img src="https://img.shields.io/badge/BACKEND-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black"/>
 </td>
 <td style="border: none;">
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,redis&theme=dark"/>
@@ -90,7 +90,7 @@
 
 <tr>
 <td align="center" style="border: none;">
-<img src="https://img.shields.io/badge/OPERATIONS-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/TOOLS-FFD700?style=for-the-badge&logo=git&logoColor=black"/>
 </td>
 <td style="border: none;">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
@@ -103,7 +103,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" height="30" style="vertical-align:middle"/>
-  PROJECT LOGS
+  PROJECT LOGS (Learning by Doing)
 </h2>
 
 <div align="center">
@@ -118,39 +118,39 @@
 <tbody>
 
 <tr>
+<td><b>🏥 TeleHealth Analytics</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Data-Eng-blue?style=flat-square"/></td>
+<td>Ingesting raw Telegram data, building a warehouse, structured reporting</td>
+</tr>
+
+<tr>
+<td><b>🕵️‍♂️ E-com Fraud Detection</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Security-ML-red?style=flat-square"/></td>
+<td>Geolocation analysis, feature engineering for fraud, handling imbalanced data</td>
+</tr>
+
+<tr>
 <td><b>🧠 RAG Complaint Intel</b></td>
 <td align="center"><img src="https://img.shields.io/badge/NLP-RAG-39FF14?style=flat-square"/></td>
-<td>Vector search, document chunking, real-time querying</td>
+<td>Vector databases, document chunking strategies, real-time querying</td>
+</tr>
+
+<tr>
+<td><b>📈 AI Portfolio Optimizer</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Fintech-LSTM-00FFFF?style=flat-square"/></td>
+<td>Time-series forecasting (ARIMA/LSTM), modern portfolio theory logic</td>
+</tr>
+
+<tr>
+<td><b>🇪🇹 Digital Finance Forecast</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Analytics-Predictive-orange?style=flat-square"/></td>
+<td>Quantifying "Access vs Usage" gaps, sparse data forecasting techniques</td>
 </tr>
 
 <tr>
 <td><b>💳 Credit Risk Pipeline</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Fintech-ML-00FFFF?style=flat-square"/></td>
-<td>Feature engineering, model eval, end-to-end flow</td>
-</tr>
-
-<tr>
-<td><b>💎 Insurance Intel</b></td>
-<td align="center"><img src="https://img.shields.io/badge/XAI-Risk-FF00FF?style=flat-square"/></td>
-<td>SHAP values, explainability, pricing logic</td>
-</tr>
-
-<tr>
-<td><b>📱 Fintech CX Analytics</b></td>
-<td align="center"><img src="https://img.shields.io/badge/NLP-Sentiment-orange?style=flat-square"/></td>
-<td>Web scraping, sentiment analysis, customer insights</td>
-</tr>
-
-<tr>
-<td><b>📈 Stock Sentiment</b></td>
-<td align="center"><img src="https://img.shields.io/badge/NLP-Finance-blue?style=flat-square"/></td>
-<td>Correlation limits, signal-to-noise separation</td>
-</tr>
-
-<tr>
-<td><b>🛠 Mini Tools</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Python-Scripting-yellow?style=flat-square"/></td>
-<td>Automation, CLI interfaces, scripting discipline</td>
+<td align="center"><img src="https://img.shields.io/badge/ML-Risk-FF00FF?style=flat-square"/></td>
+<td>RFM analysis, deploying models for Buy-Now-Pay-Later scenarios</td>
 </tr>
 
 </tbody>
@@ -159,21 +159,10 @@
 
 <br/>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L0qTl8qbP2Frq/giphy.gif" width="35" height="35" style="vertical-align:middle"/>
-  VISUAL ACTIVITY
-</h2>
-
-<div align="center">
-  <img src="https://github.com/Miftah-Ebrahim/Miftah-Ebrahim/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="100%"/>
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://img.shields.io/badge/Level-Junior-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mindset-Building-green?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trajectory-Exponential-39FF14?style=for-the-badge&logo=spacex&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mode-Deep_Work-green?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Goal-Full_Stack_AI-39FF14?style=for-the-badge&logo=spacex&logoColor=black"/>
 
 <br/><br/>
 
