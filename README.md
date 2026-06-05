@@ -64,7 +64,7 @@
 
 <br/>
 
-## ❖ DEPLOYED WORKFLOWS (Project Logs)
+## ❖ PROJECT LOGS
 
 *From parsing massive datasets to wiring up intelligent retrieval systems, these are the engines I've built.*
 
