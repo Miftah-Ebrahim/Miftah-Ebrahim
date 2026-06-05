@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20%26%20Backend%20Engineer%20•%20Building%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0D1117,003300,39FF14&section=header&text=MIFTAH%20EBRAHIM&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Junior%20Applied%20AI%20%26%20Automation%20Engineer%20•%20Building%20in%20Public&descAlignY=60&descSize=20&stroke=000000&strokeWidth=2"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=System.init(Learning_Mode)%3B;Loading...+%22Production_Pipelines%22;From+Notebooks+to+Deployed+APIs.;Commit.+Push.+Iterate."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=System.init(Automation_Mode)%3B;Loading...+%22Applied_AI_Workflows%22;From+Pipelines+to+Smart+Agents.;Build.+Automate.+Scale."/>
 </a>
 
 <br/>
@@ -37,25 +37,25 @@
 <td align="center" width="33%" style="border: none;">
 <img src="https://img.shields.io/badge/MODULE_COMPLETE-DONE-003366?style=for-the-badge"/>
 <br/><br/>
-<code>📊 EDA & Visualization</code><br/>
-<code>📓 Jupyter Notebooks</code><br/>
-<code>🤖 Basic ML Models</code>
+<code>🌐 Web Foundation (JS/HTML)</code><br/>
+<code>🐍 Python & Data Parsing</code><br/>
+<code>📊 Basic Data Pipelines</code>
 </td>
 
 <td align="center" width="33%" style="border: none;">
 <img src="https://img.shields.io/badge/CURRENT_FOCUS-ACTIVE-39FF14?style=for-the-badge&labelColor=black"/>
 <br/><br/>
-<code>⚙️ Backend (FastAPI)</code><br/>
-<code>☁️ Deployment & Docker</code><br/>
-<code>🔄 End-to-End Pipelines</code>
+<code>⚙️ Advanced Webhooks & APIs</code><br/>
+<code>🤖 Applied LLM Workflows</code><br/>
+<code>🔄 Business Process Automation</code>
 </td>
 
 <td align="center" width="33%" style="border: none;">
 <img src="https://img.shields.io/badge/LOADING_NEXT-WAITING-1a1a1a?style=for-the-badge"/>
 <br/><br/>
-<code>🧠 Agentic Workflows</code><br/>
-<code>🛡️ System Architecture</code><br/>
-<code>⚡ High Performance APIs</code>
+<code>🧠 Agentic LangGraph</code><br/>
+<code>🎙️ Voice AI Integration</code><br/>
+<code>🔌 Enterprise CRM Hookups</code>
 </td>
 </tr>
 </table>
@@ -75,16 +75,16 @@
 <img src="https://img.shields.io/badge/CORE-39FF14?style=for-the-badge&logo=python&logoColor=black"/>
 </td>
 <td style="border: none;">
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" style="border: none;">
-<img src="https://img.shields.io/badge/BACKEND-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+<img src="https://img.shields.io/badge/BACKEND_&_DATA-00FFFF?style=for-the-badge&logo=database&logoColor=black"/>
 </td>
 <td style="border: none;">
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,fastapi,react&theme=dark"/>
 </td>
 </tr>
 
@@ -93,7 +93,7 @@
 <img src="https://img.shields.io/badge/TOOLS-FFD700?style=for-the-badge&logo=git&logoColor=black"/>
 </td>
 <td style="border: none;">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark"/>
 </td>
 </tr>
 </table>
@@ -103,7 +103,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" height="30" style="vertical-align:middle"/>
-  PROJECT LOGS (Learning by Doing)
+  PROJECT LOGS (Building the Pipeline)
 </h2>
 
 <div align="center">
@@ -118,39 +118,39 @@
 <tbody>
 
 <tr>
+<td><b>🧠 RAG Complaint Intel</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Applied_AI-RAG-39FF14?style=flat-square"/></td>
+<td>Platform for analyzing and querying large-scale financial customer complaint data. Enabled internal stakeholders to ask natural-language questions and retrieve evidence.</td>
+</tr>
+
+<tr>
+<td><b>📈 Fintech Mobile CX Analytics</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Data_Eng-NLP-00FFFF?style=flat-square"/></td>
+<td>End-to-end Data Engineering and NLP pipeline. Analyzed Google Play Store reviews for Ethiopian mobile banking apps (CBE, BOA, Dashen Bank) and performed sentiment analysis.</td>
+</tr>
+
+<tr>
 <td><b>🏥 TeleHealth Analytics</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Data-Eng-blue?style=flat-square"/></td>
-<td>Ingesting raw Telegram data, building a warehouse, structured reporting</td>
+<td align="center"><img src="https://img.shields.io/badge/Automation-Pipelines-blue?style=flat-square"/></td>
+<td>Production-grade analytics platform in Python. Ingested health-related Telegram data, enriched it with AI, and delivered structured insights.</td>
+</tr>
+
+<tr>
+<td><b>🏫 BrightRoot Academy</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Web_Dev-JS-yellow?style=flat-square"/></td>
+<td>Collaborative JavaScript project work during the INSA 2025 Summer Camp. Focused on frontend integration and team collaboration.</td>
 </tr>
 
 <tr>
 <td><b>🕵️‍♂️ E-com Fraud Detection</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Security-ML-red?style=flat-square"/></td>
-<td>Geolocation analysis, feature engineering for fraud, handling imbalanced data</td>
-</tr>
-
-<tr>
-<td><b>🧠 RAG Complaint Intel</b></td>
-<td align="center"><img src="https://img.shields.io/badge/NLP-RAG-39FF14?style=flat-square"/></td>
-<td>Vector databases, document chunking strategies, real-time querying</td>
-</tr>
-
-<tr>
-<td><b>📈 AI Portfolio Optimizer</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Fintech-LSTM-00FFFF?style=flat-square"/></td>
-<td>Time-series forecasting (ARIMA/LSTM), modern portfolio theory logic</td>
-</tr>
-
-<tr>
-<td><b>🇪🇹 Digital Finance Forecast</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Analytics-Predictive-orange?style=flat-square"/></td>
-<td>Quantifying "Access vs Usage" gaps, sparse data forecasting techniques</td>
+<td align="center"><img src="https://img.shields.io/badge/Data_Logic-Pipelines-red?style=flat-square"/></td>
+<td>Robust machine learning pipeline for detecting fraud in e-commerce and banking transactions. Implemented geolocation analysis and advanced feature engineering.</td>
 </tr>
 
 <tr>
 <td><b>💳 Credit Risk Pipeline</b></td>
-<td align="center"><img src="https://img.shields.io/badge/ML-Risk-FF00FF?style=flat-square"/></td>
-<td>RFM analysis, deploying models for Buy-Now-Pay-Later scenarios</td>
+<td align="center"><img src="https://img.shields.io/badge/Analytics-Scoring-FF00FF?style=flat-square"/></td>
+<td>End-to-end credit scoring pipeline using RFM analysis. Designed to predict default risk for Buy-Now-Pay-Later e-commerce transactions.</td>
 </tr>
 
 </tbody>
@@ -161,8 +161,8 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Level-Junior-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mode-Deep_Work-green?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Goal-Full_Stack_AI-39FF14?style=for-the-badge&logo=spacex&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mode-Foundation_Building-green?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Goal-AI_Automation_Engineer-39FF14?style=for-the-badge&logo=spacex&logoColor=black"/>
 
 <br/><br/>
 
